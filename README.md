@@ -8,6 +8,8 @@ send the data from one place to another (s3 bucket)
 by using (kafka) in (ec2) instance
 then query above the data in the end with (amazon athena)
 
+! this project inspired by youtuber DarshilParmar
+
 
 After creating and setting up the EC2 instance in AWS
     
