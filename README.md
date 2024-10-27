@@ -47,8 +47,3 @@ Now our Kafka and zookeeper is running and we created our topic
 
 We gonna create our producer and consumer in the (Producer.ipnyb) and (Consumer.ipnyb) 
 
-
-
-
-    
-# kafka_stock_market
