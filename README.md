@@ -1,3 +1,5 @@
+![alt text](https://github.com/devferno/kafka_stock_market/blob/main/architecture.jpg?raw=true)
+
 This project is only for learning purpose
 
 Abstract:
