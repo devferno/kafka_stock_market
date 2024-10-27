@@ -1,4 +1,0 @@
-*.pem
-*.pub
-test_ssh_file
-.gitignore
