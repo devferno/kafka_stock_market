@@ -1,3 +1,3 @@
-test_personel_kafka.pem
+*.pem
+*.pub
 test_ssh_file
-test_ssh_file.pub
